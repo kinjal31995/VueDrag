@@ -23,7 +23,7 @@
   line-height: 1em;
   padding-bottom: 10px;
   vertical-align: middle;
-  color: rgb(95, 71, 184);
+  color: rgb(76, 50, 168);
 }
 .kanban-column {
   min-height: 300px;
