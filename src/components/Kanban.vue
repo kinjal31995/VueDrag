@@ -129,6 +129,10 @@ h3 {
   font-size: 22px;
   font-weight: bold;
 }
+.kanban-column {
+  min-height: 300px;
+  cursor: move;
+}
 .done {
   color: rgb(105, 145, 45);
   text-decoration: line-through;

@@ -25,7 +25,4 @@
   vertical-align: middle;
   color: rgb(76, 50, 168);
 }
-.kanban-column {
-  min-height: 300px;
-}
 </style>
